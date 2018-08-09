@@ -1,0 +1,16 @@
+strong.yeah {
+    display: block;
+}
+
+body h1 {
+    color: white;
+    margin:60px 0px 3000px 30px;
+}
+
+div.header {
+    float: left;
+    background: dodgerblue;
+    width: 160px;
+    margin-bottom: 3000px;
+    padding-bottom: 3000px;
+}
